@@ -1,6 +1,6 @@
-SecureVault
+VaultGuard
 
-SecureVault is a secure and private password manager built using **SwiftUI** and **CoreData**.  
+VaultGuard is a secure and private password manager built using **SwiftUI** and **CoreData**.  
 It ensures your sensitive data stays encrypted and protected locally on your device.
 
 ---
