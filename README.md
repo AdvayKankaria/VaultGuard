@@ -50,14 +50,6 @@ You are free to use, modify, and distribute it with proper attribution.
 See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-Author
-Developed by **Ali Al-Khazali (Blue Software)**
-
-SecureVault does not upload or share any user data externally.
-
----
-
 Final Word
 If you like this project, consider giving it a ⭐️ on GitHub!  
 Feedback, issues, and suggestions are always welcome 
