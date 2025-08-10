@@ -1,5 +1,3 @@
-//
-//  SecureVaultApp.swift
 //  Vaultguard
 //
 //  Created by advay kankaria on 08/08/25.
